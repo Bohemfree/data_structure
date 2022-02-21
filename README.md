@@ -1,2 +1,3 @@
 # study
-test
+Referencing Roadmap
+https://i.am.ai/roadmap/#fundamentals
