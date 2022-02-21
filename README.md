@@ -1,3 +1,2 @@
 # study
-[Referencing Roadmap]
-https://i.am.ai/roadmap/#fundamentals
+[Referencing Roadmap](https://i.am.ai/roadmap/#fundamentals)
