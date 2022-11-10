@@ -47,5 +47,5 @@
 > ex) MongoDBm, Google Cloud Firestore, Amazon DynamoDB 등
 
 #### 참조
-https://www.dataversity.net/review-pros-cons-different-databases-relational-versus-non-relational/
+https://www.dataversity.net/review-pros-cons-different-databases-relational-versus-non-relational/    
 https://aloa.co/blog/relational-vs-non-relational-database-pros-cons
